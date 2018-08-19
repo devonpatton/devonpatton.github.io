@@ -1,11 +1,11 @@
 p {
- font family: courier; color: light red;
+ font family: courier; color: lightred;
 }
-h1 { font-family:palatino, serif; color: dark red; font-size: 52px;
+h1 { font-family:palatino, serif; color: darkred; font-size: 52px;
 }
-h2 { font-family:palatino, serif; font-size:15px; color: light red;
+h2 { font-family:palatino, serif; font-size:15px; color: lightred;
 }
-body { color: light red;
+body { color: lightred;
 }
 .info { font-size: 10px;
 }
