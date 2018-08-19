@@ -7,9 +7,9 @@ h2 { font-family:palatino, serif; color: gold;
 }
 body { color: gold;
 }
-.work { font-size:32px;
+.work { font-size:25px;
 }
-.info { font-size: 10px;
+.info { font-size: 15px;
 }
 .info { border-top: 2px solid slategray;
 }
@@ -19,7 +19,7 @@ body { color: gold;
 }
 .job3 { border-top: 2px solid slategray;
 }
-.job4 { border-top: 2px solid slategray;
+.job4 { border-top, border-bottom: 2px solid slategray;
 }
 html { background-image: url(http://backgroundbest.com/wp-content/uploads/2018/04/Black-Texture-Background-4.jpg); background-size:cover;
 }
