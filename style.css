@@ -7,6 +7,8 @@ h2 { font-family:palatino, serif; font-size:32px; color: gold;
 }
 body { color: gold;
 }
+.work { font-size:32px;
+}
 .info { font-size: 10px;
 }
 .info { border-top: 2px solid slategray;
