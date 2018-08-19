@@ -3,7 +3,9 @@ p {
 }
 h1 { font-family:palatino, serif; color: blue; font-size: 52px;
 }
-.info { font-size: 15px;
+h2 { font-family:palatino, serif; font-size:15px;
+}
+.info { font-size: 10px;
 }
 
  
