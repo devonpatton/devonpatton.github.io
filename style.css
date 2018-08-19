@@ -9,15 +9,15 @@ body { color: gold;
 }
 .info { font-size: 10px;
 }
-.info { border-top: 2px solid black;
+.info { border-top: 2px solid slategray;
 }
-.job1 { border-top: 2px solid black;
+.job1 { border-top: 2px solid slategray;
 }
-.job2 { border-top: 2px solid black;
+.job2 { border-top: 2px solid slategray;
 }
-.job3 { border-top: 2px solid black;
+.job3 { border-top: 2px solid slategray;
 }
-.job4 { border-top: 2px solid black;
+.job4 { border-top: 2px solid slategray;
 }
 html { background-image: url(http://backgroundbest.com/wp-content/uploads/2018/04/Black-Texture-Background-4.jpg); background-size:cover;
 }
