@@ -1,11 +1,11 @@
 p {
- font family: courier; color: gold;
+ font family: courier; color: crimson;
 }
-h1 { font-family:palatino, serif; color: yellow; font-size: 52px;
+h1 { font-family:palatino, serif; color: firebrick; font-size: 52px;
 }
-h2 { font-family:palatino, serif; color: gold;
+h2 { font-family:palatino, serif; color: crimson;
 }
-body { color: gold;
+body { color: crimson;
 }
 .work { font-size:25px;
 }
