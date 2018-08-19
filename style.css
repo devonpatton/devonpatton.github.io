@@ -1,11 +1,11 @@
 p {
- font family: courier; color: gold;
+ font family: courier; color: white;
 }
-h1 { font-family:palatino, serif; color: Yellow; font-size: 52px;
+h1 { font-family:palatino, serif; color: honeydew; font-size: 52px;
 }
-h2 { font-family:palatino, serif; color: gold;
+h2 { font-family:palatino, serif; color: white;
 }
-body { color: gold;
+body { color: white;
 }
 .work { font-size:25px;
 }
@@ -21,7 +21,7 @@ body { color: gold;
 }
 .job4 { border-top: 2px solid slategray;
 }
-html { background-color: gray; background-size:cover;
+html { background-color: black; background-size:cover;
 }
  
  
