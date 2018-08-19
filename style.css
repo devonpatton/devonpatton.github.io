@@ -7,15 +7,15 @@ h2 { font-family:palatino, serif; font-size:15px;
 }
 .info { font-size: 10px;
 }
-.info, body { border: 2px solid black;
+.info { border-top: 2px solid black;
 }
-.job1 { border: 2px solid black;
+.job1 { border-top: 2px solid black;
 }
-.job2 { border: 2px solid black;
+.job2 { border-top: 2px solid black;
 }
-.job3 { border: 2px solid black;
+.job3 { border-top: 2px solid black;
 }
-.job4 { border: 2px solid black;
+.job4 { border-top: 2px solid black;
 }
 
  
